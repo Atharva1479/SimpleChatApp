@@ -15,7 +15,7 @@ The Simple Chat Application is a Java-based chat application that enables real-t
 1. **Prerequisites:** Make sure you have Java installed on your system.
 
 2. **Clone the Repository:** Use the following command to clone the repository to your local machine:
-git clone https://github.comAtharva1479/SimpleChatApp.git 
+git clone https://github.com/Atharva1479/SimpleChatApp
 
 3. **Run the Server:** Open your preferred Java IDE, compile and run the `Server` class to start the server-side of the chat application.
 
